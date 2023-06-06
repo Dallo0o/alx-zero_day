@@ -1,1 +1,1 @@
-the firs fun redme
+the first fun readme
