@@ -1,1 +1,1 @@
-the first fun readme
+The first trial ever!
